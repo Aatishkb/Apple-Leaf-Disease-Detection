@@ -14,3 +14,5 @@
   - (4). Fit the model
   - (5). Prediction
   - (6). Solution/Treatment
+
+![Image](C:\Users\kumar\Pictures\Screenshots\Screenshot (46).png)
