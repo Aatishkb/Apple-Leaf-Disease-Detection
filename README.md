@@ -15,4 +15,4 @@
   - (5). Prediction
   - (6). Solution/Treatment
 
-![Image](C:\Users\kumar\Pictures\Screenshots\Screenshot (46).png)
+![Image]((https://github.com/Aatishkb/Apple-Leaf-Disease-Detection/blob/main/Screenshot%20(46).png))
